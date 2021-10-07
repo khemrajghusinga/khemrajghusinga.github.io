@@ -36,15 +36,15 @@ Please visit [my Google scholar page](https://scholar.google.com/citations?user=
 8. Saurabh Modi, Cesar A. Vargas-Garcia, **Khem Raj Ghusinga**, and Abhyudai Singh, “Analysis of noise mechanisms in cell size control", *Biophysical Journal*, 2017 [[link]](https://doi.org/10.1016/j.bpj.2017.04.050) [[preprint]](https://doi.org/10.1101/080465).
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.bpj.2017.04.050" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
 
-9. **Khem Raj Ghusinga**, John J. Dennehy, and Abhyudai Singh, “First-passage time approach to controlling noise in the timing of intracellular events”, *Proceedings of the National Academy of Sciences*, 2017 [[link]](https://doi.org/10.1073/pnas.1609012114) [[preprint]](https://doi.org/10.1101/056945).
+3. **Khem Raj Ghusinga**, John J. Dennehy, and Abhyudai Singh, “First-passage time approach to controlling noise in the timing of intracellular events”, *Proceedings of the National Academy of Sciences*, 2017 [[link]](https://doi.org/10.1073/pnas.1609012114) [[preprint]](https://doi.org/10.1101/056945).
 <span data-badge-details="right" data-badge-type="donut" data-doi="10.1073/pnas.1609012114" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1609012114" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
 
 
-10. **Khem Raj Ghusinga**, Cesar A. Vargas-Garcia, and Abhyudai Singh, “A mechanistic stochastic framework for regulating bacterial cell division”, *Scientific Reports*, 2016 [[link]](https://doi.org/10.1038/srep30229) [[preprint]](https://arxiv.org/abs/1512.07864).
+2. **Khem Raj Ghusinga**, Cesar A. Vargas-Garcia, and Abhyudai Singh, “A mechanistic stochastic framework for regulating bacterial cell division”, *Scientific Reports*, 2016 [[link]](https://doi.org/10.1038/srep30229) [[preprint]](https://arxiv.org/abs/1512.07864).
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep30229" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span>
 
-11. Vishwesh Kulkarni, Aditya Paranjape, **Khem Raj Ghusinga**, and Naira Hovakimyan, “Synthesis of robust tunable oscillators using mitogen activated protein kinase cascades”, *Systems and Synthetic Biology*, 2010 [[link]](https://doi.org/10.1007/s11693-011-9078-3).
+1. Vishwesh Kulkarni, Aditya Paranjape, **Khem Raj Ghusinga**, and Naira Hovakimyan, “Synthesis of robust tunable oscillators using mitogen activated protein kinase cascades”, *Systems and Synthetic Biology*, 2010 [[link]](https://doi.org/10.1007/s11693-011-9078-3).
 
 
 ### peer-reviewed conference proceedings
