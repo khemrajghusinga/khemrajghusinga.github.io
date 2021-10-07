@@ -46,6 +46,8 @@ Please visit [my Google scholar page](https://scholar.google.com/citations?user=
 
 11. Vishwesh Kulkarni, Aditya Paranjape, **Khem Raj Ghusinga**, and Naira Hovakimyan, “Synthesis of robust tunable oscillators using mitogen activated protein kinase cascades”, *Systems and Synthetic Biology*, 2010 [[link]](https://doi.org/10.1007/s11693-011-9078-3).
 
+{: reversed="reversed"}
+
 ### peer-reviewed conference proceedings
 ---
 
