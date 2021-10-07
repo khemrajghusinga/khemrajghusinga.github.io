@@ -53,37 +53,37 @@ Please visit [my Google scholar page](https://scholar.google.com/citations?user=
 ### peer-reviewed conference proceedings
 ---
 
-1. Zahra Vahdat, **Khem Raj Ghusinga**, and Abhyudai Singh, "Comparing feedback strategies for minimizing noise in gene expression event timing", *Mediterranean Conference on Control and Automation*, 2021 [[link]](https://doi.org/10.1109/MED51440.2021.9480208) [[preprint]](https://osf.io/yz7xn).
+17\. Zahra Vahdat, **Khem Raj Ghusinga**, and Abhyudai Singh, "Comparing feedback strategies for minimizing noise in gene expression event timing", *Mediterranean Conference on Control and Automation*, 2021 [[link]](https://doi.org/10.1109/MED51440.2021.9480208) [[preprint]](https://osf.io/yz7xn).
 
-2. **Khem Raj Ghusinga** and Abhyudai Singh, “Controlling event timing precision in gene expression with dynamic external disturbances", *IEEE Conference on Decision and Control*, 2020 [[link]](https://doi.org/10.1109/CDC42340.2020.9304265) [[preprint]](https://osf.io/thkve).
+16\. **Khem Raj Ghusinga** and Abhyudai Singh, “Controlling event timing precision in gene expression with dynamic external disturbances", *IEEE Conference on Decision and Control*, 2020 [[link]](https://doi.org/10.1109/CDC42340.2020.9304265) [[preprint]](https://osf.io/thkve).
 
-3. **Khem Raj Ghusinga** and Abhyudai Singh, “Regulating gene expression to achieve temporal precision", *International Symposium on Mathematical Theory of Networks and Systems*, 2020 [[link]](https://doi.org/10.1016/j.ifacol.2021.06.108) [[preprint]](https://osf.io/a7uce/).
+15\. **Khem Raj Ghusinga** and Abhyudai Singh, “Regulating gene expression to achieve temporal precision", *International Symposium on Mathematical Theory of Networks and Systems*, 2020 [[link]](https://doi.org/10.1016/j.ifacol.2021.06.108) [[preprint]](https://osf.io/a7uce/).
 
-4. Zikai Xu, **Khem Raj Ghusinga**, and Abhyudai Singh, “Noise analysis in biochemical complex formation from stochastically produced components”, *American Control Conference*, 2020 [[link]](https://doi.org/10.23919/ACC45564.2020.9147925) [[preprint]](https://doi.org/10.1101/310847).
+14\. Zikai Xu, **Khem Raj Ghusinga**, and Abhyudai Singh, “Noise analysis in biochemical complex formation from stochastically produced components”, *American Control Conference*, 2020 [[link]](https://doi.org/10.23919/ACC45564.2020.9147925) [[preprint]](https://doi.org/10.1101/310847).
 
-5. **Khem Raj Ghusinga** and Abhyudai Singh, “Analysis of stochastic timing of intracellular events with gene switching”, *Indian Control Conference*, 2019 [[link]](https://doi.org/10.1109/ICC47138.2019.9123214) [[preprint]](https://doi.org/10.1101/710442).
+13\. **Khem Raj Ghusinga** and Abhyudai Singh, “Analysis of stochastic timing of intracellular events with gene switching”, *Indian Control Conference*, 2019 [[link]](https://doi.org/10.1109/ICC47138.2019.9123214) [[preprint]](https://doi.org/10.1101/710442).
 
-6. Madeline Smith, **Khem Raj Ghusinga**, and Abhyudai Singh, “Comparison of feedback strategies for noise suppression in protein level", *American Control Conference*, 2019  [[link]](https://doi.org/10.23919/ACC.2019.8815616) [[preprint]](https://doi.org/10.1101/623181).
+12\. Madeline Smith, **Khem Raj Ghusinga**, and Abhyudai Singh, “Comparison of feedback strategies for noise suppression in protein level", *American Control Conference*, 2019  [[link]](https://doi.org/10.23919/ACC.2019.8815616) [[preprint]](https://doi.org/10.1101/623181).
 
-7. **Khem Raj Ghusinga**, Vaibhav Srivastava, and Abhyudai Singh, “Driving an Ornstein-Uhlenbeck process to desired first-passage time statistics”, *European Control Conference*, 2019 [[link]](https://doi.org/10.23919/ECC.2019.8795862) [[preprint]](https://arxiv.org/abs/1703.08846).
+11\. **Khem Raj Ghusinga**, Vaibhav Srivastava, and Abhyudai Singh, “Driving an Ornstein-Uhlenbeck process to desired first-passage time statistics”, *European Control Conference*, 2019 [[link]](https://doi.org/10.23919/ECC.2019.8795862) [[preprint]](https://arxiv.org/abs/1703.08846).
 
-8. **Khem Raj Ghusinga**, Andrew Lamperski, and Abhyudai Singh, “Estimating stationary characteristic functions of stochastic systems via semidefinite programming”, *European Control Conference*, 2018 [[link]](https://doi.org/10.23919/ECC.2018.8550583) [[preprint]](https://arxiv.org/abs/1711.06327).
+10\. **Khem Raj Ghusinga**, Andrew Lamperski, and Abhyudai Singh, “Estimating stationary characteristic functions of stochastic systems via semidefinite programming”, *European Control Conference*, 2018 [[link]](https://doi.org/10.23919/ECC.2018.8550583) [[preprint]](https://arxiv.org/abs/1711.06327).
 
-9. **Khem Raj Ghusinga**, Mohammad Soltani, Andrew Lamperski, Sairaj Dhople and Abhyudai Singh, “Approximate moment dynamics for polynomial and trigonometric stochastic systems”, *IEEE Conference on Decision and Control*, 2017 [[link]](https://doi.org/10.1109/CDC.2017.8263922) [[preprint]](https://arxiv.org/abs/1703.08841).
+9\. **Khem Raj Ghusinga**, Mohammad Soltani, Andrew Lamperski, Sairaj Dhople and Abhyudai Singh, “Approximate moment dynamics for polynomial and trigonometric stochastic systems”, *IEEE Conference on Decision and Control*, 2017 [[link]](https://doi.org/10.1109/CDC.2017.8263922) [[preprint]](https://arxiv.org/abs/1703.08841).
 
-10. Ximing Chen, Masaki Ogura, **Khem Raj Ghusinga**, Abhyudai Singh and Victor M. Preciado, “Moment-Closures with Quality Guarantees using Semi-definite Programming: Application to Epidemics on Networks”, *IEEE Conference on Decision and Control*, 2017 [[link]](https://doi.org/10.1109/CDC.2017.8264008).
+8\. Ximing Chen, Masaki Ogura, **Khem Raj Ghusinga**, Abhyudai Singh and Victor M. Preciado, “Moment-Closures with Quality Guarantees using Semi-definite Programming: Application to Epidemics on Networks”, *IEEE Conference on Decision and Control*, 2017 [[link]](https://doi.org/10.1109/CDC.2017.8264008).
 
-11. **Khem Raj Ghusinga** and Abhyudai Singh, “Effect of gene-expression bursting on stochastic timing of cellular events”, *American Control Conference*, 2017 [[link]](https://doi.org/10.23919/ACC.2017.7963265) [[preprint]](https://arxiv.org/abs/1609.07461).
+7\. **Khem Raj Ghusinga** and Abhyudai Singh, “Effect of gene-expression bursting on stochastic timing of cellular events”, *American Control Conference*, 2017 [[link]](https://doi.org/10.23919/ACC.2017.7963265) [[preprint]](https://arxiv.org/abs/1609.07461).
 
-12. Andrew Lamperski, **Khem Raj Ghusinga**, and Abhyudai Singh, “Stochastic optimal control using semidefinite programming for moment dynamics”, *IEEE Conference on Decision and Control*, 2016 [[link]](https://doi.org/10.1109/CDC.2016.7798556) [[preprint]](https://arxiv.org/abs/1603.06309).
+6\. Andrew Lamperski, **Khem Raj Ghusinga**, and Abhyudai Singh, “Stochastic optimal control using semidefinite programming for moment dynamics”, *IEEE Conference on Decision and Control*, 2016 [[link]](https://doi.org/10.1109/CDC.2016.7798556) [[preprint]](https://arxiv.org/abs/1603.06309).
 
-13. **Khem Raj Ghusinga** and Abhyudai Singh, “Optimal regulation of protein degradation to schedule cellular events with precision”, *American Control Conference*, 2016 [[link]](https://doi.org/10.1109/ACC.2016.7524951) [[preprint]](https://arxiv.org/abs/1510.00658).
+5\. **Khem Raj Ghusinga** and Abhyudai Singh, “Optimal regulation of protein degradation to schedule cellular events with precision”, *American Control Conference*, 2016 [[link]](https://doi.org/10.1109/ACC.2016.7524951) [[preprint]](https://arxiv.org/abs/1510.00658).
 
-14. **Khem Raj Ghusinga** and Abhyudai Singh, “Theoretical predictions on the first-passage time for a gene expression model”, *IEEE Conference on Decision and Control*, 2015 [[link]](https://doi.org/10.1109/CDC.2015.7402820).
+4\. **Khem Raj Ghusinga** and Abhyudai Singh, “Theoretical predictions on the first-passage time for a gene expression model”, *IEEE Conference on Decision and Control*, 2015 [[link]](https://doi.org/10.1109/CDC.2015.7402820).
 
-15. **Khem Raj Ghusinga**, Pak-Wing Fok, and Abhyudai Singh, “Optimal auto-regulation to minimize first-passage time variability in protein level”, *American Control Conference*, 2015 [[link]](https://doi.org/10.1109/ACC.2015.7172023).
+3\. **Khem Raj Ghusinga**, Pak-Wing Fok, and Abhyudai Singh, “Optimal auto-regulation to minimize first-passage time variability in protein level”, *American Control Conference*, 2015 [[link]](https://doi.org/10.1109/ACC.2015.7172023).
 
-16. **Khem Raj Ghusinga** and Abhyudai Singh, “First-passage time calculations for a gene expression model”, *IEEE Conference on Decision and Control*, 2014 [[link]](https://doi.org/10.1109/CDC.2014.7039858) [[preprint]](https://arxiv.org/abs/1405.3226).
+2\. **Khem Raj Ghusinga** and Abhyudai Singh, “First-passage time calculations for a gene expression model”, *IEEE Conference on Decision and Control*, 2014 [[link]](https://doi.org/10.1109/CDC.2014.7039858) [[preprint]](https://arxiv.org/abs/1405.3226).
 
-17. **Khem Raj Ghusinga** and Abhyudai Singh, “First passage time stochasticity in a gene network with feedback regulation”, *Northeastern Bioengineering Conference*, 2014 [[link]](https://doi.org/10.1109/NEBEC.2014.6972797).
+1\. **Khem Raj Ghusinga** and Abhyudai Singh, “First passage time stochasticity in a gene network with feedback regulation”, *Northeastern Bioengineering Conference*, 2014 [[link]](https://doi.org/10.1109/NEBEC.2014.6972797).
 
