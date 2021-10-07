@@ -25,10 +25,10 @@ This page lists some useful resources including publicly available books, monogr
 - [Feedback Control Theory](https://www.control.utoronto.ca/people/profs/francis/dft.html) by John Doyle, Bruce Francis and Allen Tannenbaum
 - [Mathematical Control Theory](http://www.sontaglab.org/FTPDIR/sontag_mathematical_control_theory_springer98.pdf) by Eduardo Sontag
 - [Lecture Notes on Mathematical Systems Biology](https://drive.google.com/open?id=1lIRqaCPeXMVZGoY-44bBsvtnsHtlRfIO) by Eduardo Sontag
-- [Ordinary Differential Equations and Dynamical Systems]() by Gerald Teschl
-- [Lectures in Mathematics]() hosted by Tata Institute of Fundamental Research, India
-- [What is Life?]() by Erwin Schrodinger
-- [Lecture notes on stochastic models in systems biology]() by Peter Swain
+- [Ordinary Differential Equations and Dynamical Systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/) by Gerald Teschl
+- [Lectures in Mathematics](http://www.math.tifr.res.in/~publ/ln/index.html) hosted by Tata Institute of Fundamental Research, India
+- [What is Life?](http://www.whatislife.ie/downloads/What-is-Life.pdf) by Erwin Schrodinger
+- [Lecture notes on stochastic models in systems biology](https://arxiv.org/abs/1607.07806) by Peter Swain
 
 ### Scientific Writing
 ---
