@@ -16,19 +16,19 @@ This page lists some useful resources including publicly available books, monogr
 - [Linear Matrix Inequalities in System and Control Theory](https://stanford.edu/~boyd/lmibook/) by [Stephen Boyd](https://stanford.edu/~boyd/), Laurent El Ghaoui, E. Feron and V. Balakrishnan
 - [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) by [Herbert Wilf](https://www2.math.upenn.edu/~wilf/)
 - [A First Course in Information Theory](http://iest2.ie.cuhk.edu.hk/~whyeung/book/) by Raymond Yeung
-- Lecture Notes on Network Information Theory by Abbas El Gamal, Young-Han Kim
-- Information Theory, Inference, and Learning Algorithms by David MacKay
-- Introduction to Queueing Theory by Robert Cooper
-- Random Processes for Engineers by Bruce Hajek
-- Concentration-of-measure inequalities by Gabor Lugosi
-- Feedback Systems: An Introduction for Scientists and Engineers by Karl Astrom and Richard Murray
-- Feedback Control Theory by John Doyle, Bruce Francis and Allen Tannenbaum
-- Mathematical Control Theory by Eduardo Sontag
-- Lecture Notes on Mathematical Systems Biology by Eduardo Sontag
-- Ordinary Differential Equations and Dynamical Systems by Gerald Teschl
-- Lectures in Mathematics hosted by Tata Institute of Fundamental Research, India
-- What is Life? by Erwin Schrodinger
-- Lecture notes on stochastic models in systems biology by Peter Swain
+- [Lecture Notes on Network Information Theory](https://arxiv.org/abs/1001.3404) by Abbas El Gamal, Young-Han Kim
+- [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/) by David MacKay
+- [Introduction to Queueing Theory](https://www.cse.fau.edu/~bob/publications/IntroToQueueingTheory_Cooper.pdf) by Robert Cooper
+- [Random Processes for Engineers](http://hajek.ece.illinois.edu/ECE534Notes.html) by [Bruce Hajek](http://hajek.ece.illinois.edu/)
+- [Concentration-of-measure inequalities](http://www.econ.upf.edu/~lugosi/anu.pdf) by Gabor Lugosi
+- [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/amwiki/Main_Page) by Karl Astrom and Richard Murray
+- [Feedback Control Theory](https://www.control.utoronto.ca/people/profs/francis/dft.html) by John Doyle, Bruce Francis and Allen Tannenbaum
+- [Mathematical Control Theory](http://www.sontaglab.org/FTPDIR/sontag_mathematical_control_theory_springer98.pdf) by Eduardo Sontag
+- [Lecture Notes on Mathematical Systems Biology](https://drive.google.com/open?id=1lIRqaCPeXMVZGoY-44bBsvtnsHtlRfIO) by Eduardo Sontag
+- [Ordinary Differential Equations and Dynamical Systems]() by Gerald Teschl
+- [Lectures in Mathematics]() hosted by Tata Institute of Fundamental Research, India
+- [What is Life?]() by Erwin Schrodinger
+- [Lecture notes on stochastic models in systems biology]() by Peter Swain
 
 ### Scientific Writing
 ---
