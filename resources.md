@@ -7,19 +7,19 @@ This page lists some useful resources including publicly available books, monogr
 
 ### Books
 ---
-- [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/PTE/pte.html) by [Rick Durret](https://services.math.duke.edu/~rtd/)
-- [Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) by [Terrence Tao](https://www.math.ucla.edu/~tao/)
-- [Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html) by [Robert Gray](https://ee.stanford.edu/~gray/)
-- [Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.html) by [Robert Gray](https://ee.stanford.edu/~gray/)
+- [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/PTE/pte.html) by Rick Durret
+- [Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) by Terrence Tao
+- [Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html) by Robert Gray
+- [Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.html) by Robert Gray
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd and Lieven Vandenberghe
-- [Lectures on Modern Convex Optimization](https://www2.isye.gatech.edu/~nemirovs/LMCOBookSIAM.pdf) by Aharon Ben-Tal and [Arkadi Nemirovski](https://www2.isye.gatech.edu/~nemirovs/)
-- [Linear Matrix Inequalities in System and Control Theory](https://stanford.edu/~boyd/lmibook/) by [Stephen Boyd](https://stanford.edu/~boyd/), Laurent El Ghaoui, E. Feron and V. Balakrishnan
-- [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) by [Herbert Wilf](https://www2.math.upenn.edu/~wilf/)
+- [Lectures on Modern Convex Optimization](https://www2.isye.gatech.edu/~nemirovs/LMCOBookSIAM.pdf) by Aharon Ben-Tal and Arkadi Nemirovski
+- [Linear Matrix Inequalities in System and Control Theory](https://stanford.edu/~boyd/lmibook/) by Stephen Boyd, Laurent El Ghaoui, E. Feron and V. Balakrishnan
+- [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) by Herbert Wilf
 - [A First Course in Information Theory](http://iest2.ie.cuhk.edu.hk/~whyeung/book/) by Raymond Yeung
 - [Lecture Notes on Network Information Theory](https://arxiv.org/abs/1001.3404) by Abbas El Gamal, Young-Han Kim
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/) by David MacKay
 - [Introduction to Queueing Theory](https://www.cse.fau.edu/~bob/publications/IntroToQueueingTheory_Cooper.pdf) by Robert Cooper
-- [Random Processes for Engineers](http://hajek.ece.illinois.edu/ECE534Notes.html) by [Bruce Hajek](http://hajek.ece.illinois.edu/)
+- [Random Processes for Engineers](http://hajek.ece.illinois.edu/ECE534Notes.html) by Bruce Hajek
 - [Concentration-of-measure inequalities](http://www.econ.upf.edu/~lugosi/anu.pdf) by Gabor Lugosi
 - [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/amwiki/Main_Page) by Karl Astrom and Richard Murray
 - [Feedback Control Theory](https://www.control.utoronto.ca/people/profs/francis/dft.html) by John Doyle, Bruce Francis and Allen Tannenbaum
