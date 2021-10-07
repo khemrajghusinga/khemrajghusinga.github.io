@@ -13,6 +13,9 @@ Please visit [my Google scholar page](https://scholar.google.com/citations?user=
 ### journal articles
 ---
 
+12\. Cesar Nieto, **Khem Raj Ghusinga**, Cesar A. Vargas-Garcia, and Abhyudai Singh, "First-passage time statistics for size-dependent gene expression in growing cells: comparison of different models", *IEEE Control Systems Letters* (under review), 2021.
+
+
 11\. **Khem Raj Ghusinga**, Timothy C Elston, and Alan M Jones, "Towards resolution of a paradox in plant G-protein signaling", *Plant Physiology* (under review), 2021.
 
 10\. **Khem Raj Ghusinga**, Roger D Jones, Alan M Jones, and Timothy C Elston, "Molecular switch architecture determines response properties of signaling pathways", *Proceedings of the National Academy of Sciences*, 2021 [[link]](https://doi.org/10.1073/pnas.2013401118) [[preprint]](https://doi.org/10.1101/2020.06.12.147900).
