@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="left" src="/img/headshot.jpg" width="150" hspace="30" vspace="10"> 
+<img align="left" src="/img/headshot.jpg" width="200" hspace="30" vspace="10"> 
 
 I am currently a postdoctoral research associate with [Alan M. Jones](https://bio.unc.edu/faculty-profile/jones/) and [Timothy C. Elston](https://www.med.unc.edu/pharm/directory/timothy-elston/) at the University of North Carolina at Chapel Hill. I am broadly interested in understanding biological systems using joint computational-experimental approaches.
 
