@@ -10,7 +10,7 @@ I am currently a Senior Scientist at Applied Biomath. Prior to this, I was a pos
 My research integrates computational analyses with experimental data to answer fundamental questions in biology and medicine. Recent advancements in experimental techniques allow us to measure dynamics of various components of biological systems at subcellular, cellular, and population levels. These measurements show that biological systems are characteristically stochastic, nonlinear, and comprise multiple spatial and temporal scales. Therefore, understanding biological systems requires application of tools drawn from a range of computational disciplines. The iterative cycles of modeling, learning, and experimentation enable us to discover biological design principles, identify dysregulations that cause diseases, and suggest potential ways to manipulate the system for therapeutic purposes. I invite you to see [my publications](/publications/) or [my Google Scholar page](https://scholar.google.com/citations?user=2UQbyu4AAAAJ) to learn more about my research. 
 
 
-Thank you for visiting. If you would like to connect with me, please send me an email to: khem[at]email[dot]unc[dot]edu
+Thank you for visiting. If you would like to connect with me, please send me an email to: khem[at]udel[dot]edu
 
 
 
