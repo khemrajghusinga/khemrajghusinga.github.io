@@ -32,17 +32,15 @@ This page lists some useful resources including publicly available books, monogr
 
 ### Scientific Writing
 ---
-- Mathematical Writing by Donald Knuth, Tracy Larrabee and Paul Roberts
-- On Writing by Terrence Tao
-- Ten Simple Rules for Mathematical Writing by Dimitri P. Bertsekas
-- How to Write a Paper by Oded Goldreich
-- On Speaking, Writing and Inspiration by Mark Ptashne
-- On Learning to Write by Mark Ptashne
-- Elements of Style by William Strunk, Jr.
-- The Grammer According to West by Douglas West
-- Undergraduate Writing Guide
-- Writing a Control Paper by Joao Hespanha
-- Scientific Writing by Claus Wilke
+- [Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Donald Knuth, Tracy Larrabee and Paul Roberts
+- [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/) by Terrence Tao
+- [Ten Simple Rules for Mathematical Writing](https://www.mit.edu/~dimitrib/Ten_Rules.html) by Dimitri P. Bertsekas
+- [How to Write a Paper](https://www.wisdom.weizmann.ac.il/~oded/writing.html) by Oded Goldreich
+- [On Speaking, Writing and Inspiration](https://doi.org/10.1016/j.cub.2007.03.030) by Mark Ptashne
+- [On Learning to Write](https://doi.org/10.1016/j.cub.2007.04.013) by Mark Ptashne
+- [Elements of Style](https://www.bartleby.com/141/) by William Strunk, Jr.
+- [The Grammer According to West](https://faculty.math.illinois.edu/~west/grammar.html) by Douglas West
+- [Writing a Control Paper](https://web.ece.ucsb.edu/~hespanha/published/writingpapers.pdf) by Joao Hespanha
 
 ### Video lectures
 ---
