@@ -60,8 +60,8 @@ This page lists some useful resources including publicly available books, monogr
 
 ### Miscellaneous
 ---
-- Productivity tips by Matt Might
-- You and Your Research (video, transcript) by Richard Hamming
-- Creative thinking by Claude Shannon
-- Ten Lessons I Wish I Had Been Taught by Gian-Carlo Rota
+- [Productivity tips](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) by Matt Might
+- [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)  by Richard Hamming
+- [Creative thinking](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html) by Claude Shannon
+- [Ten Lessons I Wish I Had Been Taught](https://www.ams.org/notices/199701/comm-rota.pdf) by Gian-Carlo Rota
 
