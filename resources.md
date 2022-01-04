@@ -50,15 +50,14 @@ This page lists some useful resources including publicly available books, monogr
 - Several (video) courses are available at NPTEL, MIT OCW, Coursera, EdX, SEE
 
 
-### Color theory
+###  Visualizations
 ---
-Below are some websites/articles that give a brief overview of how color theory works, and how one can design graphs/figures to communicate the ideas better.
 
-- Gabriela Plucinska's blog has a variety of resources on improving scientific communication, including suggestions on how to make better figures.
-- Color Brewer provides color advice for cartography. Useful resource in picking color scheme for a figure.
-- iWantHue can be used to pick color schemes.
-- The Color Usage Research Lab at NASA has several useful resources, including the ColorTool.
-- The Earth Observatory has a nice primer on  subtleties behind designing elegant figures.
+- [data in the spotlight](https://www.gabrielaplucinska.com/blog) - Gabriela Plucinska's blog has a variety of resources on scientific communication and data visualization.
+- [Fundamentals of data visualization](https://clauswilke.com/dataviz/) by Claus Wilke.
+- [Color Brewer](https://colorbrewer2.org/) provides color advice for cartography. Useful resource in picking color scheme for a figure.
+- [iWantHue](https://medialab.github.io/iwanthue/) for nice color palettes.
+- [Color Usage Research Lab](https://colorusage.arc.nasa.gov/) has several useful resources on usage of colors for graphics.
 
 ### Miscellaneous
 ---
