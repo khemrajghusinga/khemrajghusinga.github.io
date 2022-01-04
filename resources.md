@@ -46,8 +46,9 @@ This page lists some useful resources including publicly available books, monogr
 
 ### Video lectures
 ---
-- Systems Biology by Uri Alon
-- Several (video) courses are available at NPTEL, MIT OCW, Coursera, EdX, SEE
+- [Systems Biology](https://www.weizmann.ac.il/mcb/UriAlon/courses/systems-biology-course-2018) by Uri Alon
+- [Systems Medicine](https://www.weizmann.ac.il/mcb/UriAlon/courses/systems-medicine-course-2020) by Uri Alon
+- [Asymptotics and perturbation methods](https://www.youtube.com/watch?v=KZsk8B_z8pI&list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI) by Steven Strogatz
 
 
 ###  Visualizations
